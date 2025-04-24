@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**saifullinartem/saifullinartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at ITMO University and a beginner C++ backend developer.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** C++ (modern C++17/20), 
+- **Tools:** CMake
+
+### 🚀 Goals
+- Seeking an internship backend developer position.
+
+### 📫 Get in touch:
+- Email: artemiksf@gmail.com
+- Telegram: @cheeezaaaa
+
+Thanks for visiting my profile!
