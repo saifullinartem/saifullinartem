@@ -4,7 +4,7 @@ I'm a Software Engineering student at ITMO University and a beginner C++ backend
 
 
 ###  Tech Stack
-- **Languages:** C++ (modern C++17/20), 
+- **Languages:** C++  
 - **Tools:** CMake
 
 ###  Goals
